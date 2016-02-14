@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016-01-31 23:24:53.409,=C:\DSrest\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016-01-31 23:24:53.729,=C:\DSrest\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2016-01-31 23:24:54.308,=C:\DSrest\WebModuleUnit1.pas</Transaction>
+    <Transaction>2016-01-31 23:24:54.695,=C:\DSrest\js\base64.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.721,=C:\DSrest\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.736,=C:\DSrest\js\json2.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.751,=C:\DSrest\js\CallbackFramework.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.777,=C:\DSrest\js\ServerFunctions.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.788,=C:\DSrest\js\base64-min.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.804,=C:\DSrest\js\json2-min.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.822,=C:\DSrest\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.835,=C:\DSrest\js\CallbackFramework-min.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.846,=C:\DSrest\js\connection.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.860,=C:\DSrest\js\ServerFunctionInvoker.js</Transaction>
+    <Transaction>2016-01-31 23:24:54.870,=C:\DSrest\css\main.css</Transaction>
+    <Transaction>2016-01-31 23:24:54.881,=C:\DSrest\css\ServerFunctionInvoker.css</Transaction>
+    <Transaction>2016-01-31 23:24:54.896,=C:\DSrest\templates\ReverseString.html</Transaction>
+    <Transaction>2016-01-31 23:24:54.909,=C:\DSrest\templates\ServerFunctionInvoker.html</Transaction>
+    <Transaction>2016-01-31 23:24:54.916,=C:\DSrest\images\collapse.png</Transaction>
+    <Transaction>2016-01-31 23:24:54.925,=C:\DSrest\images\expand.png</Transaction>
+  </Transactions>
+</BorlandProject>

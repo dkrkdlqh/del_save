@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
+<html>
+ <head>
+  <title>Hello World</title>
+<link rel="stylesheet" type="text/css" href="css/main.css" />
+<script type="text/javascript" src="js/base64.js"></script>
+<script type="text/javascript" src="js/json2.js"></script>
+<script type="text/javascript" src="js/serverfunctionexecutor.js"></script>
+<script type="text/javascript" src="js/connection.js"></script>
+<script type="text/javascript" src="js/serverfunctionsjs"></script>
+<script type="text/javascript">
+
+  function doexecute()
+  {
+
+	var proxy=new Twebmodule1();
+	alert("hello");
+	//var val=document.getelementbyID("tarea").value;
+	//var user="DELPHI";
+	//var password="DELPHI";
+	//var proxy=new TserverMethods1(getauth(user,password));	
+	//var response=proxy.echostring(val);
+	
+	//alert(response.toJSONString());	
+	
+  }
+  </script>
+ </head>
+ <body>
+  <form onsubmit="doexecute(); return false;">
+    <textarea rows="5" id="tarea">HELLO World!</textarea><br />
+    <input type="SUBMIT" value="ECHO"/>
+  </form>
+ </body>
+</html>

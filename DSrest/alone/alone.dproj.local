@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.414,=C:\DSrest\alone\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.996,=C:\DSrest\alone\js\json2-min.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.469,=C:\DSrest\alone\css\main.css</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.974,=C:\DSrest\alone\images\expand.png</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.031,=C:\DSrest\alone\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.687,=C:\DSrest\alone\templates\ReverseString.html</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.746,=C:\DSrest\alone\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.766,=C:\DSrest\alone\templates\ServerFunctionInvoker.html</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.947,=C:\DSrest\alone\js\base64-min.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.805,=C:\DSrest\alone\js\json2.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.455,=C:\DSrest\alone\FormUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.851,=C:\DSrest\alone\js\CallbackFramework.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.676,=C:\DSrest\alone\js\base64.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.891,=C:\DSrest\alone\js\ServerFunctions.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.087,=C:\DSrest\alone\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.089,=C:\DSrest\alone\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.210,=C:\DSrest\alone\js\connection.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.309,=C:\DSrest\alone\js\ServerFunctionInvoker.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.550,=C:\DSrest\alone\css\ServerFunctionInvoker.css</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.157,=C:\DSrest\alone\js\CallbackFramework-min.js</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.887,=C:\DSrest\alone\images\collapse.png</Transaction>
+  </Transactions>
+</BorlandProject>
