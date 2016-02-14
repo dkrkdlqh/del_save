@@ -42,7 +42,7 @@ object WebModule1: TWebModule1
     HTMLFile = 'templates\ReverseString.html'
     OnHTMLTag = ServerFunctionInvokerHTMLTag
     Left = 168
-    Top = 184
+    Top = 176
   end
   object WebFileDispatcher1: TWebFileDispatcher
     WebFileExtensions = <
@@ -92,12 +92,12 @@ object WebModule1: TWebModule1
     Top = 248
   end
   object DSServerMetaDataProvider1: TDSServerMetaDataProvider
-    Left = 160
-    Top = 256
+    Left = 168
+    Top = 248
   end
   object PageProducer1: TPageProducer
     HTMLFile = 'C:\DSrest\alone\hello.html'
     Left = 272
-    Top = 184
+    Top = 168
   end
 end

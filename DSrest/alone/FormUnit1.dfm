@@ -31,7 +31,7 @@ object Form1: TForm1
     OnClick = ButtonStartClick
   end
   object ButtonStop: TButton
-    Left = 137
+    Left = 193
     Top = 8
     Width = 75
     Height = 25
