@@ -31,7 +31,7 @@ object Form1: TForm1
     OnClick = ButtonStartClick
   end
   object ButtonStop: TButton
-    Left = 193
+    Left = 121
     Top = 8
     Width = 75
     Height = 25
@@ -40,7 +40,7 @@ object Form1: TForm1
     OnClick = ButtonStopClick
   end
   object EditPort: TEdit
-    Left = 24
+    Left = 64
     Top = 67
     Width = 121
     Height = 21
@@ -48,7 +48,7 @@ object Form1: TForm1
     Text = '8080'
   end
   object ButtonOpenBrowser: TButton
-    Left = 24
+    Left = 78
     Top = 112
     Width = 107
     Height = 25
